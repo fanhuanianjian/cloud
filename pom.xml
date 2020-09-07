@@ -36,6 +36,7 @@
     <module>yuuuu-consul-client-consumer-9004</module>
     <module>yuuuu-nacos-client-provider-8007</module>
     <module>yuuuu-nacos-client-provider-8008</module>
+    <module>yuuuu-nacos-client-config-3377</module>
   </modules>
 
   <!-- 子模块继承之后，提供作用：锁定版本+子modlue不用写groupId和version  -->
