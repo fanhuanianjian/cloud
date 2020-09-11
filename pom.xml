@@ -37,8 +37,9 @@
     <module>yuuuu-nacos-client-provider-8007</module>
     <module>yuuuu-nacos-client-provider-8008</module>
     <module>yuuuu-nacos-client-config-3377</module>
-    <module>yuuuu-sentinel-service-8401</module>
-    <module>yuuuu-sentinel-service-8402</module>
+    <module>yuuuu-sentinel-provider-8401</module>
+    <module>yuuuu-sentinel-provider-8402</module>
+    <module>yuuuu-sentinel-consumer-9006</module>
   </modules>
 
   <!-- 子模块继承之后，提供作用：锁定版本+子modlue不用写groupId和version  -->
