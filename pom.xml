@@ -36,6 +36,7 @@
     <module>yuuuu-consul-client-consumer-9004</module>
     <module>yuuuu-nacos-client-provider-8007</module>
     <module>yuuuu-nacos-client-provider-8008</module>
+    <module>yuuuu-nacos-client-consumer-9005</module>
     <module>yuuuu-nacos-client-config-3377</module>
     <module>yuuuu-sentinel-provider-8401</module>
     <module>yuuuu-sentinel-provider-8402</module>
