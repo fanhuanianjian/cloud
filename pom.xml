@@ -45,6 +45,7 @@
     <module>yuuuu-rabbitmq-provider-8009</module>
     <module>yuuuu-rabbitmq-consumer-9007</module>
     <module>yuuuu-redis-redisson-provider-8101</module>
+    <module>yuuuu-redis-redisson-provider-8102</module>
   </modules>
 
   <!-- 子模块继承之后，提供作用：锁定版本+子modlue不用写groupId和version  -->

@@ -7,9 +7,9 @@
         <artifactId>cloud</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>yuuuu-redis-redisson-provider-8101</artifactId>
+    <artifactId>yuuuu-redis-redisson-provider-8102</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>yuuuu-redis-redisson-provider-8101</name>
+    <name>yuuuu-redis-redisson-provider-8102</name>
     <description>Demo project for Spring Boot</description>
 
     <dependencies>
